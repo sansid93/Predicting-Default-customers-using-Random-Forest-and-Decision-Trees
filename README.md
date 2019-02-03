@@ -20,5 +20,5 @@ I will be going over the Lending Club Loan Data. The data has a lot of features,
 * pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
 
 #### Accuracy of the model:
-* Decision Trees: 72%
+* Decision Trees: 74%
 * Random Forest: 85%
